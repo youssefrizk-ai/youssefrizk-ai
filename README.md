@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/673/6732.gif" width="100px"/>
+  <img src="https://giffiles.alphacoders.com/673/6732.gif" width="95%" height="250px">
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#ff6600">Youssef Rizk</span> 👨‍💻</h1>
